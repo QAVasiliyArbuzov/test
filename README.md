@@ -27,5 +27,5 @@
 
 ---
 👨‍💻 **Автор:** [Арбузов / Василий]  
-📬 **Связаться:** [Ваш Telegram / @Vasiliy_Arbuzov / Arbuzovvv@bk.ru
+📬 **Связаться:** [Telegram- https://t.me/Vasiliy_Arbuzov / Email- Arbuzovvv@bk.ru
 ссылка на Github: https://github.com/QAVasiliyArbuzov/test]
